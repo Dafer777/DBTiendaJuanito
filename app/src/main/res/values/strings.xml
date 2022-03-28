@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaseDatosTienda</string>
+    <string name="names">Nombre Cliente</string>
+    <string name="name">Name</string>
+    <string name="tienda_juanito">Tienda Juanito</string>
+    <string name="enviar_pedido">Enviar Pedido</string>
+    <string name="producto">Producto</string>
+    <string name="Product">Producto</string>
+
+</resources>
